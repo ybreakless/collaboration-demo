@@ -2,3 +2,7 @@ Collaborations Demo Project
 Version 1.0
 adding more features to the project
 trying to upscale the meaning of the projects
+adding more lines to the project based on the request
+and the last comment given by the owner
+of the project to makt it more user friendly and 
+easier to use for everybody at any age 
