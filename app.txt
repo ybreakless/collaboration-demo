@@ -1,2 +1,8 @@
 Collaborations Demo Project
 Version 1.0
+adding more details to the file so 
+it would create a conflict
+between the two branches 
+so i could do some kind of 
+black magic to make it damn
+scary in the process
